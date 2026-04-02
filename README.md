@@ -2,7 +2,7 @@
 
 👋 My name is Alice
 
-:mortar_board: I study Information Technologies & Computer Science in NUST MISIS
+:mortar_board: BSc in Information Technologies and Computer Science, NUST MISIS
 
 :compass: Currently located in Moscow, Russia (GMT+3)
 
